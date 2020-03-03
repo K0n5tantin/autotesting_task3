@@ -1,0 +1,27 @@
+[
+    {
+        "url": "/location/3",
+        "method": "GET",
+        "result": {
+            "name": "Citadel of Ricks"
+        }
+    },
+    {
+        "url": "/location/5",
+        "method": "GET",
+        "result": {
+            "name": "Anatomy Park"
+        }
+    },
+    {
+        "url": "/location/8,9,10",
+        "method": "GET",
+        "result": {
+            "names": [
+                "Post-Apocalyptic Earth",
+                "Purge Planet",
+                "Venzenulon 7"
+            ]
+        }
+    }
+]

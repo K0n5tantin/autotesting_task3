@@ -1,0 +1,26 @@
+[
+    {
+        "url": "/character/26",
+        "method": "GET",
+        "result": {
+            "name": "Arthricia"
+        }
+    },
+    {
+        "url": "/character/50",
+        "method": "GET",
+        "result": {
+            "name": "Blim Blam"
+        }
+    },
+    {
+        "url": "/character/26,50",
+        "method": "GET",
+        "result": {
+            "names": [
+                "Arthricia",
+                "Blim Blam"
+            ]
+        }
+    }
+]
